@@ -3,7 +3,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=5000&color=851c73&center=true&vCenter=true&width=1000&lines=Hey+there%2C+I'm+Rohitha+Dilshan" alt="Typing SVG" /></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitha-dilshan&label=Profile%20views&base=1230&abbreviated=true&color=252da1&style=for-the-badge" alt="rohitha-dilshan" /> </p>
 
 - 💎 Working on **Frontend Projects**
 - 📝 Exploring **React & JavaScript**
