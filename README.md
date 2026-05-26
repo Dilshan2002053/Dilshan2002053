@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rohitha Dilshan</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=5000&color=851c73&center=true&vCenter=true&width=1000&lines=Hey+there%2C+I'm+Rohitha+Dilshan" alt="Typing SVG" /></a>
-
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=5000&color=851c73&center=true&vCenter=true&width=1000&lines=Hey+there%2C+I'm+Rohitha+Dilshan" alt="Typing SVG" />
+  </a>
+</p>
 
 - 💎 Working on **Frontend Projects**
 - 📝 Exploring **React & JavaScript**
@@ -11,8 +14,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rohitha-dilshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohitha-dilshan" height="30" width="40" /></a>
-<a href="https://fb.com/rohitha.dilshan.dhananjaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rohitha-dilshan-dhananjaya" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/rohitha-dilshan-dhananjaya-bandara-589051352/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/rohithadilshandhananjaya/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://fb.com/rohitha.dilshan.dhananjaya" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
 </p>
 
 <hr>
@@ -60,16 +70,10 @@
 
 <hr>
 
-<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
-    <span style="display: inline-block;">
-        <a href="https://git.io/streak-stats" style="text-decoration: none;">
-            <img src="https://github-readme-streak-stats.herokuapp.com?user=rohitha-dilshan&theme=midnight-purple&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200&fire=EB6D00" alt="GitHub Streak" style="max-width: 100%; height: auto; vertical-align: middle;" />
-        </a>
-    </span>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=rohitha-dilshan&theme=midnight-purple&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200&fire=EB6D00" alt="GitHub Streak" />
+  </a>
 </div>
 
-------
-
-Credit: [Rohitha Dilshan](https://github.com/rohitha-dilshan)
-
-
+---
